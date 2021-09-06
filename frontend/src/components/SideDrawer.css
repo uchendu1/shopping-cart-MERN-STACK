@@ -68,3 +68,8 @@ font-size: 1.6rem;
     background: #f4f4f4;
     color:  #171717;
 }
+@media (min-width: 960px) {
+    .sidedrawer{
+        display: none;
+    }
+}
