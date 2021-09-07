@@ -21,6 +21,8 @@
 }
 .cartitem__select {
     padding: 10px 17px;
+    border-radius: 4px;
+
 }
 .cartitem__deleteBtn {
     padding: 10px 17px;
@@ -28,6 +30,8 @@
     border: 1px solid #171717;
     cursor: pointer;
     transition: all 0.3s ease-out;
+    border-radius: 4px;
+
 }
 .cartitem__deleteBtn:hover,
 .cartitem__deleteBtn:focus,
